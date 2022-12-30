@@ -1,6 +1,5 @@
 ### Hi I'm JAEYOUNG KIM 👋
-<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>&logoColor=white">
 <!--
 **KIM-Git-Hub/KIM-Git-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
