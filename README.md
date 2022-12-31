@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hello%20%20%20I'm%20JAEYOUNG%20KIM&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hello%20%20%20I'm%20JAEYOUNG%20KIM&fontSize=50)
 
 
 
