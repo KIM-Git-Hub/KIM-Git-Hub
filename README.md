@@ -1,6 +1,4 @@
-### Hi I'm JAEYOUNG KIM 👋
-
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Hi I'm JAEYOUNG KIM%20render&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-Git-Hub&layout=compact)](https://github.com/KIM-Git-Hub/github-readme-stats)
 
