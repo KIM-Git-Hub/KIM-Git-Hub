@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Hello%20I'm%20JAEYOUNG%20KIM&fontSize=90)
 
 
@@ -5,6 +6,8 @@
 
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  
+</div>
 
 <!--
 **KIM-Git-Hub/KIM-Git-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
