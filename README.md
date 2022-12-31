@@ -1,7 +1,7 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Hello%20I'm%20JAEYOUNG%20KIM&fontSize=90)
 
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-Git-Hub&layout=compact)](https://github.com/KIM-Git-Hub/github-readme-stats)
 
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
