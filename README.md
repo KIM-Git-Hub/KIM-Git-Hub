@@ -7,9 +7,13 @@
       
       
  **📂 My repository 📂**
-      <href="https://github.com/KIM-Git-Hub/BMI-MEMO"target="_blank"a>BMI-MEMO</a>
       
-  
+[BMI-MEMO](https://github.com/KIM-Git-Hub/BMI-MEMO)
+      
+[Weather-天気](https://github.com/KIM-Git-Hub/WeatherAPP)
+      
+[Login-Subscription](https://github.com/KIM-Git-Hub/Login-Subscription)  
+      
 </div>
 
 
