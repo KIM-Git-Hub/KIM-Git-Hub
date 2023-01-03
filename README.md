@@ -3,7 +3,7 @@
 
 <div align="center">
       
-#### I want to become an android app developer who connects people's hearts
+### I want to become an android app developer who connects people's hearts
       
 ### **📚 I'm studying 📚**
       
