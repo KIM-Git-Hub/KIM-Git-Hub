@@ -14,11 +14,11 @@
       
 ### **📂 My repository 📂**
       
-[BMI-MEMO](https://github.com/KIM-Git-Hub/BMI-MEMO)
+◽BMIを測定し、MEMOする ： [BMI-MEMO](https://github.com/KIM-Git-Hub/BMI-MEMO)
       
-[Weather-天気](https://github.com/KIM-Git-Hub/WeatherAPP)
+◽一週間の天気予報 ： [Weather-天気](https://github.com/KIM-Git-Hub/WeatherAPP)
       
-[Login-Subscription](https://github.com/KIM-Git-Hub/Login-Subscription)<br/> <br/>   
+◽ログイン・定期購入機能の勉強 ： [Login-Subscription](https://github.com/KIM-Git-Hub/Login-Subscription)<br/> <br/>   
       
 
 
