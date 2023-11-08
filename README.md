@@ -10,17 +10,24 @@
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><br/> <br/>   
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
        
      
-      
+
 ### **📂 My repository 📂**
+<br/>
+
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
       
 ◽BMIを測定し、MEMOする ： [BMI-MEMO](https://github.com/KIM-Git-Hub/BMI-MEMO)
       
 ◽一週間の天気予報 ： [Weather-天気](https://github.com/KIM-Git-Hub/WeatherAPP)
       
-◽ログイン・定期購入機能の勉強 ： [Login-Subscription](https://github.com/KIM-Git-Hub/Login-Subscription)<br/> <br/>   
+◽ログイン・定期購入機能の勉強 ： [Login-Subscription](https://github.com/KIM-Git-Hub/Login-Subscription)<br/><br/>
+
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <br/>
+◽思いついたアイデアを記録する ： [IdeaNote](https://github.com/KIM-Git-Hub/Idea-Note)<br/><br/>
+
       
 
 
