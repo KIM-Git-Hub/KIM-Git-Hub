@@ -2,9 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20%20%20I'm%20JAEYOUNG%20KIM&fontSize=50)
 
 <div align="center">
-      
-### I want to become an android app developer who connects people's hearts
-      
+
 ### **📚 I'm studying 📚**
       
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
