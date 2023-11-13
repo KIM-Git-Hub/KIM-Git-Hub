@@ -24,7 +24,8 @@
 ◽ログイン・定期購入機能の勉強 ： [Login-Subscription](https://github.com/KIM-Git-Hub/Login-Subscription)<br/><br/>
 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <br/>
-◽思いついたアイデアを記録する ： [IdeaNote](https://github.com/KIM-Git-Hub/Idea-Note)<br/><br/>
+◽思いついたアイデアを記録する ： [IdeaNote](https://github.com/KIM-Git-Hub/Idea-Note)<br/>
+ [Daily News](https://github.com/KIM-Git-Hub/Idea-Note) (開発中)<br/><br/>
 
       
 
