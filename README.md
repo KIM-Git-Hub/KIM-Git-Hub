@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <br/>
 ◽思いついたアイデアを記録する ： [IdeaNote](https://github.com/KIM-Git-Hub/Idea-Note)<br/>
- [Daily News](https://github.com/KIM-Git-Hub/Daily-News) (開発中)<br/><br/>
+◽今日の最新ニュース ： [DailyNews](https://github.com/KIM-Git-Hub/Daily-News) <br/><br/>
 
       
 
